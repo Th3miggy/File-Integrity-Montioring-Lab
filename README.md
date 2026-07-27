@@ -19,6 +19,8 @@ In this lab our goal is to establish a SIEM on our Ubuntu machine get our window
 ## Steps
 Below will be steps and images to document the process of completing this lab.
 
-Ref 1: First step in the lab is to confirm the IP on our Ubuntu machine and windows machines as they will both be needed in the setup of the SIEM 
+Ref 1: First step in the lab is to confirm the IP on our Ubuntu machine and windows machines as they will both be needed in the setup of the SIEM. we can do this by using ifconfig on our ubuntu machine and ipconfig on our windows machine.
+
+
 
 
