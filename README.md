@@ -29,7 +29,10 @@ Ref 2: Next we will head to the Wazuh and find the manager installer for ubuntu 
 
 ![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2016-40-01.png?raw=true)
 
- L
+ Ref 3: After the install of the manager is done, we are give a usename and password for which to login to our dashboard. Using the Ip address of our ubuntu machine we can login to our dashboard.
+
+ ![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/ChatGPT%20Image%20Jul%2026,%202026,%2010_24_23%20PM.png?raw=true)
+
 
 
 
