@@ -21,7 +21,7 @@ Below will be steps and images to document the process of completing this lab.
 
 Ref 1: First step in the lab is to confirm the IP on our Ubuntu machine and windows machines as they will both be needed in the setup of the SIEM. we can do this by using ifconfig on our ubuntu machine and ipconfig on our windows machine.
 
-https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2022-11-27.png?raw=true
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2022-11-27.png?raw=true)
 
 
 
