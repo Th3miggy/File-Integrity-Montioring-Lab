@@ -47,5 +47,15 @@ Ref 6: Once the script has been completed and the Wazuh agent has been installed
 
 Ref 7: Now that the agent is install and we can manager the device from our ubuntu machine we have access to several powerful tools that we will dive into on a later project for now we are going to focus on the file integrity montioring tools. first we will return to our windows machine and edit the ossec.conf in a text editor (such as notpad) to add the directory we want to montior to the file integrity montior section of the file. in this case the directory we are montioring is C:/downloads/test/ 
 
-![not-working](
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%202026-07-26%20224557.png?raw=true)
+
+Ref 8,9,10: add this text to the .conf file will now created log when files are added, deleted or moved in the directory. for instance if we add a Test.txt it will created a event log in our wazuh manager addtional it will created another log in the test.txt file is deleted
+
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%202026-07-26%20175543.png?raw=true)
+
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2017-55-21.png?raw=true)
+
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2017-57-02.png?raw=true)
+
+this conludes our Lab!
 
