@@ -23,6 +23,12 @@ Ref 1: First step in the lab is to confirm the IP on our Ubuntu machine and wind
 
 ![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2022-11-27.png?raw=true)
 
+Ref 2: Next we will head to the Wazuh and find the manager installer for ubuntu and run that script.
+
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2015-25-53.png?raw=true)
+
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2016-40-01.png?raw=true)
+
 
 
 
