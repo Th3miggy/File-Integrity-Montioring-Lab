@@ -1,28 +1,27 @@
 # File-Integrity-Montioring-Lab
-This lab will follow the pocess of setting up a wazuh SIEM and establishing a file integrity monitoring on our endpoint
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+## Objective
 
-Skills Learned
-[Bullet Points - Remove this afterwards]
+In this lab our goal is to establish a SIEM on our Ubuntu machine get our windows machine add as an endpoint and setup file integrity montioring on the endpoint and final test the montioring by creating and deleting files to see if they created event logs on our Wazuh Dashboard.
 
-Advanced understanding of SIEM concepts and practical application.
-Proficiency in analyzing and interpreting network logs.
-Ability to generate and recognize attack signatures and patterns.
-Enhanced knowledge of network protocols and security vulnerabilities.
-Development of critical thinking and problem-solving skills in cybersecurity.
-Tools Used
-[Bullet Points - Remove this afterwards]
+### Skills Learned
 
-Security Information and Event Management (SIEM) system for log ingestion and analysis.
-Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-Telemetry generation tools to create realistic network traffic and attack scenarios.
-Steps
+- Advanced understanding of SIEM concepts and practical application.
+- Proficienet in SIEM setup as a control and a endpoint.
+- Better understanding of File integrity montioring application.
+
+### Tools Used
+
+- Security Information and Event Management (SIEM) system namely Wazuh and Open source SIEM.
+- Notpad or other text editor to note which directory we want to monitor.
+- a Linux ubuntu machine to act as our manager and a windows device to be our endpoint.
+
+## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
-Ref 1: Network Diagram
+*Ref 1: Network Diagram*
+
