@@ -29,6 +29,7 @@ Ref 2: Next we will head to the Wazuh and find the manager installer for ubuntu 
 
 ![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2016-40-01.png?raw=true)
 
+ L
 
 
 
