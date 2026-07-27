@@ -17,11 +17,8 @@ In this lab our goal is to establish a SIEM on our Ubuntu machine get our window
 - a Linux ubuntu machine to act as our manager and a windows device to be our endpoint.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+Below will be steps and images to document the process of completing this lab.
 
-Every screenshot should have some text explaining what the screenshot is about.
+Ref 1: First step in the lab is to confirm the IP on our Ubuntu machine and windows machines as they will both be needed in the setup of the SIEM 
 
-Example below.
-
-*Ref 1: Network Diagram*
 
