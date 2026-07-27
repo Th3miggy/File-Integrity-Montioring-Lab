@@ -41,5 +41,11 @@ Ref 5: It is important to note that for running the command on your windows devi
 
 ![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%202026-07-26%20173828.png?raw=true)
 
+Ref 6: Once the script has been completed and the Wazuh agent has been installed we can return to our ubuntu device and check the manager to make sure we can see the device under agents
 
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2017-42-39.png?raw=true)
+
+Ref 7: Now that the agent is install and we can manager the device from our ubuntu machine we have access to several powerful tools that we will dive into on a later project for now we are going to focus on the file integrity montioring tools. first we will return to our windows machine and edit the ossec.conf in a text editor (such as notpad) to add the directory we want to montior to the file integrity montior section of the file. in this case the directory we are montioring is C:/downloads/test/ 
+
+![not-working](
 
