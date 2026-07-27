@@ -33,6 +33,13 @@ Ref 2: Next we will head to the Wazuh and find the manager installer for ubuntu 
 
  ![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/ChatGPT%20Image%20Jul%2026,%202026,%2010_24_23%20PM.png?raw=true)
 
+Ref 4: The next step we will go the deploy new agents tab and fill out the information with our manager IP address and agent name. This will created a command for us to run on our windows machine.
+
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%20from%202026-07-26%2022-34-06.png?raw=true)
+
+Ref 5: It is important to note that for running the command on your windows device it must be ran as admin and a windows powershell prompt
+
+![not-working](https://github.com/Th3miggy/File-Integrity-Montioring-Lab/blob/main/Screenshot%202026-07-26%20173828.png?raw=true)
 
 
 
